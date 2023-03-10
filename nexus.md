@@ -1,5 +1,5 @@
-# Maven 部署与使用
-## 部署 Maven
+# Nexus 部署与使用
+## 部署 Nexus
 
 1.安装 JDK 1.8
 * 其他版本运行 Nexus 会报错：The version of the JVM must be 1.8.
